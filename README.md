@@ -6,7 +6,7 @@ Sorry to break it to you, but I dropped out of my computer science degree cause 
 
 🪐 **PREVIOUSLY** I did commit some shit C#, learned a little C, hacked away with Python, entered a love/hate relationship with CSS and dealt excessively with WordPress, to a point where I know quite well what im doing.
 
-💡 Besides "computer stuff" **I LOVE TO CREATE** music, graphics and photography. ⚡ Take a look at my [website](https://decided.to) for a quick glance. 🪜 Last but not least, I have an uncontrollable love for emojis. 🥺 I'm sorry 🥲 but not that much. 😏 
+💡 Besides "computer stuff" **I LOVE TO CREATE** music, graphics and photography. ⚡ Take a look at my [website](https://lwgl.xyz) for a quick glance. 🪜 Last but not least, I have an uncontrollable love for emojis. 🥺 I'm sorry 🥲 but not that much. 😏 
 
 <!--
 **matebitte/matebitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
